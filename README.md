@@ -38,26 +38,28 @@ I'm going to add sliders to control some values as:
 
 I'll eventually add something to edit the content of your note book and the content of your backpack but it might take some time.
 
-# Installation guide
+## Installation guide
 
-## SideQuest
+### SideQuest
 ***Not Available, please wait for GHVRM to come out on SideQuest officially***
+
 1. On your mobile Oculus application go to the setting and enable the devlopper account mode
 2. Download and install [Sidequest](https://sidequestvr.com/setup-howto)
 3. Plug your Oculus Quest 2 to your PC and accept all the prompts showing in your headset
-4. search for Green hell VR Manager
-5. Hit Download
-6. launch the app a first time
+4. search for [Green hell VR Manager](https://sidequestvr.com/app/8341/ghvrm)
+5. Hit Download App
+6. Launch the application (under the Unknown App tab)
 7. Accept the prompt asking for the permission to load and edit files on the system
-8. Quit and launch back again the app
+8. Enjoy!
 
-## Sideload
 
-1. Download the lastest .APK on discord or on Github
-2. Download and install [Sidequest](https://sidequestvr.com/setup-howto)
-3. On your mobile Oculus application go to the setting and enable the devlopper account mode
+### Sideload
+
+1. On your Oculus phone application, go to the setting and enable the devlopper account mode
+2. Download the lastest .APK on discord or Github
+3. Download and install [Sidequest](https://sidequestvr.com/setup-howto)
 4. Plug your Oculus Quest 2 to your PC and accept all the prompts showing in your headset
 5. Drag and drop the .apk on the sidequest home page
-6. launch the app a first time
+6. Launch the application (under the Unknown App tab)
 7. Accept the prompt asking for the permission to load and edit files on the system
-8. Quit and launch back again the app
+8. Enjoy!
