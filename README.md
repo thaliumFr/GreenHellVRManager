@@ -32,6 +32,7 @@ I'm going to add sliders to control some values as:
   - proteins
   - Water
 - Time
+- Unlock Maps
 - Rain
   - Rain Duration
   - Time Of Rain
