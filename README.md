@@ -46,7 +46,6 @@ I'll eventually add something to edit the content of your note book and the cont
 ## Installation guide
 
 ### SideQuest
-***Not Available, please wait for GHVRM to come out on SideQuest officially***
 
 1. On your mobile Oculus application go to the setting and enable the devlopper account mode
 2. Download and install [Sidequest](https://sidequestvr.com/setup-howto)
