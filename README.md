@@ -3,6 +3,7 @@
 Green Hell VR Manager is a tool to edit your save files in Green Hell VR: Quest Edition.
 
 ## Available Options
+#### 0.1
 - Player Position
 - Stats Update -> Update the Health, stamina, Energy and Sanity of the player while you're playing
 - Macroelements
@@ -19,6 +20,11 @@ Green Hell VR Manager is a tool to edit your save files in Green Hell VR: Quest 
 - Map Navigation
 - Day-Night Cycle
 
+#### 0.2
+
+- Time
+- Unlock Maps
+
 ## Future Options
 I'm going to add sliders to control some values as:
 - Stats
@@ -31,8 +37,6 @@ I'm going to add sliders to control some values as:
   - fats
   - proteins
   - Water
-- Time
-- Unlock Maps
 - Rain
   - Rain Duration
   - Time Of Rain
